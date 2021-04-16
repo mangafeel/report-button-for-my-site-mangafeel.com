@@ -1,0 +1,2 @@
+# report-button-for-my-site-mangafeel.com
+Hi i recently just my fast site i dont have any experience in coding so i was hoping can anyone give any information regarding my site (My site : https://mangafee.com/) . It is a manga (comic) website so some time time i post a  chapter it might be broken or some images get missing some time but how do viewers will report . I am looking for this solution can any one give me any free plugin that i can use as a report button.  Thanks in advance.
